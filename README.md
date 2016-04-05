@@ -1,5 +1,5 @@
 # Easy edit for docx files
-Script for download your likes from Tumblr
+Python program for easy edit *.docx files
 
 ### Requirements
 
